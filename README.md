@@ -21,5 +21,3 @@ Deep Learning model trained using the MS COCO 2014 dataset. This model captions 
 ![Image 7](/temp/7.png)
 
 ![Image 8](/temp/8.png)
-
-![Image 9](/temp/9.png)
